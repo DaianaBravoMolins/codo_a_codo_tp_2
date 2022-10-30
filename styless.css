@@ -1,0 +1,180 @@
+/*seccion1*/
+#encabezado{
+    filter: brightness(200%);
+}
+
+#logocodoacodo{
+    width: 80px;
+    height: 60px;
+    filter:brightness(45%);
+}
+
+#confbsas{
+    color:white;
+}
+
+#navbarNav{
+    justify-content: right;
+}
+
+#conferencia{
+    color:white;
+}
+
+#oradores{
+    color:dimgrey;
+}
+
+#lugaryfecha{
+    color:dimgrey;
+}
+
+#conviertete{
+    color: dimgrey;
+}
+
+#tickets{
+    color:darkgreen;
+}
+/*Seccion2 Palacio de agua*/
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+#palaciodeagua{
+    filter:brightness(40%)
+}
+
+.bsas {
+    position: absolute;
+    top:9%;
+    left: 52%;
+    color:white;
+    margin-right: 10%;
+    margin-top: 20%;
+}
+
+#texto{
+    line-height: 150%;
+    margin-top: 5%;
+}
+
+.buttonorador{
+    margin-top: 2%;
+    background-color:transparent;
+    color: white;
+    padding: 2%;
+    margin-right: 5%;
+}
+
+.buttonticket {
+    margin-top:2%;
+    background-color:forestgreen;
+    color:white;
+    padding: 2%;
+}
+/*Seccion 3*/
+.text{
+    text-align: center;
+}
+
+#titulo{
+    margin-top:2%;
+}
+/*Seccion 4*/
+#honolulu{
+    border-color: grey;
+    margin-top: 2%;
+}
+
+#octubre{
+    background-color:#474a4d;
+    color:white;
+    padding: 1%;
+}
+
+#bsasoctubre {
+    text-align: left;
+}
+
+#textohonolulu{
+    line-height: 150%;
+}
+
+#conocemas{
+    margin-top: 1%;
+}
+
+/*seccion 5 formulario*/
+#inicioformulario{
+    text-align: center;
+}
+
+#titulo2{
+    padding-top:2%;
+}
+
+#nombre{
+   margin-top: 0,5%;
+}
+
+#apellido{
+    margin-top: 0,5%;
+}
+
+#comentario{
+    margin-top: 2%;
+}
+
+#enviarcomentario{
+    background-color: yellowgreen;
+    color:white;
+    margin-top: 2%;
+}
+
+/*seccion 6 pie de pagina*/
+#piedepagina{
+    margin-top:1%;
+    background-color: darkslategray;
+    padding: 1%;
+    text-transform:uppercase;
+    color:white;
+
+}
+
+#link1{
+    color:white;
+
+}
+
+#link2{
+    color:white;
+    align-self: center;
+}
+
+#link3{
+    color:white;
+    align-self: center;
+}
+
+#link4{
+    color:white;
+    align-self: center;
+}
+
+#link5{
+    color:white;
+}
+
+#link6{
+    color:white;
+    align-self: center;
+}
+
+#link7{
+    color:white;
+    align-self: center;
+}
+
