@@ -1,0 +1,180 @@
+/*seccion1*/
+#encabezado{
+    filter: brightness(200%);
+}
+
+#confbsas{
+    color:white;
+}
+
+#navbarNav{
+    justify-content: right;
+}
+
+#conferencia{
+    color: dimgray;
+}
+
+#oradores{
+    color:dimgrey;
+}
+
+#lugaryfecha{
+    color:dimgrey;
+}
+
+#conviertete{
+    color: white;
+}
+
+#tickets{
+    color:darkgreen;
+}
+
+/*seccion2*/
+#tipodecategoria{
+    margin-top: 30px;
+}
+#caja1{
+    margin-right: 2px;
+}
+#estudiante{
+    text-align: center;
+    font-weight: bold;
+}
+
+#categoria1{
+    text-align: center;
+    font-weight:bold;
+    font-size:larger;
+    margin-top: 20px;
+}
+
+#documentacion1{
+    color:grey;
+}
+
+#trainee{
+    text-align: center;
+    font-weight: bold;
+}
+
+#caja2{
+    margin-right: 2px;
+}
+
+#categoria2{
+    text-align: center;
+    font-weight:bold;
+    font-size:larger;
+    margin-top: 20px;
+}
+
+#documentacion2{
+    color:grey;
+}
+
+#junior{
+    text-align: center;
+    font-weight: bold;
+}
+
+#categoria3{
+    text-align: center;
+    font-weight:bold;
+    font-size:larger;
+    margin-top: 20px;
+}
+
+#documentacion3{
+    color:grey;
+}
+
+/*seccion 3*/
+#titulos{
+    text-align: center;
+    margin-top: 5px;
+}
+
+#exampleInputEmail1{
+    margin-top: 20px;
+}
+
+#cantidad{
+    margin-top: 20px;
+}
+
+#categoria{
+    margin-top: 20px;
+}
+
+#inputState{
+    margin-top: 8px;
+}
+
+#totalapagar{
+    margin-top: 20px;
+}
+
+#button{
+    text-align: left;
+    background-color: cornflowerblue;
+    color: blue;
+}
+
+#buttongroup{
+    margin-top: 20px;
+}
+
+#button2{
+   background-color:yellowgreen ;   
+   color: white;
+}
+
+#button3{
+    background-color:yellowgreen ;   
+    color: white;
+}
+
+/*seccion 6 pie de pagina*/
+#piedepagina{
+    margin-top:1%;
+    background-color: darkslategray;
+    padding: 1%;
+    text-transform:uppercase;
+    color:white;
+}
+
+#link1{
+    color:white;
+}
+
+#link2{
+    color:white;
+    align-self: center;
+}
+
+#link3{
+    color:white;
+    align-self: center;
+}
+
+#link4{
+    color:white;
+    align-self: center;
+}
+
+#link5{
+    color:white;
+}
+
+#link6{
+    color:white;
+    align-self: center;
+}
+
+#link7{
+    color:white;
+    align-self: center;
+}
+
